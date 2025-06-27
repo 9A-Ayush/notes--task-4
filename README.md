@@ -1,31 +1,28 @@
 # 📝 NotesApp - Java File I/O Based Notes Manager
 
-A simple text-based Java Notes Application that allows you to:
-- Write notes ✍️  
-- View all notes 👀  
-- Search, delete, and manage your notes easily! 🧹  
-Built using **FileReader/FileWriter** and Java I/O with full terminal interaction.
+A simple terminal-based Java application to manage your notes like a pro.  
+Built using Java's FileReader and FileWriter APIs.
 
 ---
 
 ## 🔧 Tools Used
 
 - Java ☕
-- VS Code or any text editor
+- VS Code
 - Terminal / Command Prompt
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-https://github.com/9A-Ayush/notes--task-4/blob/main/ss/Screenshot%202025-06-27%20183726.png
+> Here's a real example from the app in action 👇
+
+![Main Menu Screenshot](https://github.com/9A-Ayush/notes--task-4/blob/main/ss/Screenshot%202025-06-27%20183726.png)
 
 ---
 
 ## 🚀 How to Run
 
-1. Clone or download this repository  
-2. Open your terminal or command prompt in the project folder  
-3. Compile the Java file:
+1. Download or clone this repo:
    ```bash
-   javac NotesApp.java
+   git clone https://github.com/9A-Ayush/notes--task-4.git
